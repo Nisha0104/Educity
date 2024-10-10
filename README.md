@@ -1,3 +1,3 @@
 # React + Vite
 
-"# Educity"
+"# Educity Website"
